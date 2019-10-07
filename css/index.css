@@ -1,3 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Be+Vietnam&display=swap');
+
 body {
-  background-color: tomato;
+  font-family: 'Be Vietnam', sans-serif;
+  font-size: 1em;
+  background-color:white;
+  max-width: 100%;
+  overflow-x: hidden;
+  margin: 0%
 }
+
+h1 {
+  font-family: 'Be Vietnam', sans-serif;
+  font-size: 1.7em;
+  color: white;
+  padding: 1em;
+  background-color: #0000CD;
+  width: 100%;
+
+}
+
+h2 {
+  font-family: 'Be Vietnam', sans-serif;
+  padding: 0.5em;
+  background-color: #0000CD;
+  width: 100%;
+  color: white;
+ 
+}
+
+h3 {
+  font-family: 'Be Vietnam', sans-serif;
+  width: 100%;
+  text-align: left;
+  padding: 0.5em;
+  color: #0000CD;
+  font-size: 1.5em
+}
+
+p {
+  text-align: center;
+  margin: 1em;
+}
+
+
+.productimg {
+  display: inline;
+  text-align: center;
+  width: 100%
+}
+
+.applybtn {
+  background-color: #E7E967;
+  padding: 1em;
+  text-align: center;
+  display: block;
+  margin: 1em
+  
+}
+
+.grid {
+  display: grid;
+  grid-template-columns:repeat(2,1fr);
+  max-width: 100em;
+  margin: 0%;
+  
+}
+
+.b1 {
+  background-color: #0000CD;
+  padding: 1.5em;
+}
+
+.b1 a {
+  color:white;
+}
+
+.b2 {
+  background-color: #E7E967;
+  padding: 1.5em;
+
+}
+
+.centerthis {
+  text-align: center;
+}
+
+.logo {
+  background-color: #0000CD;
+  padding: 1em;
+  padding-right: 100%;
+  max-width: 40%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: #0000CD
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
